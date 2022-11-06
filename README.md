@@ -1,5 +1,7 @@
 <div align="center"> 
   Hi Welcome, I'm SEUNG HYO LEE! 👋 
+  </br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAstroHyo%2Fhit-counter&count_bg=%237B7B7B&title_bg=%235094F0&icon=macys.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
 ## ✨ I'm an Entrepreneur who makes value for a better world.
