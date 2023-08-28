@@ -39,8 +39,8 @@
 - I am a freshman studying computer science at Johns Hopkins University. 
 - Right now, I am taking a gap year in Korea to serve in the Korean military as an interpreter.
 -------
-- 🎓 Johns Hopkins Univ. Computer Science에 재학 중이며 현재 군휴학 중입니다.
-- 💂 지금은 국군수송사령부 소속으로 지상작전사령부에서 통역병으로 군복무를 하고 있습니다. (~2023.06.19)
+- 🎓 Johns Hopkins Univ. Computer Science에 재학 중입니다. 
+- 💂 국군수송사령부 소속으로 지상작전사령부에서 통역병으로 군복무를 하고 있습니다. (~2023.06.19)
 
 </div>
 
