@@ -37,9 +37,9 @@
 ## ✨ I'm an Entrepreneur who develops and shares the values for a better world.
 
 - I develop the value by repeated experiments aimed at the world. 
-- I am a freshman studying computer science at Johns Hopkins University. 
+- I am a sophomore studying computer science at Johns Hopkins University. 
 -------
-- 🎓 현재 Johns Hopkins Univ. Computer Science에 재학 중입니다. 
+- 🎓 현재 Johns Hopkins University Computer Science에 재학 중입니다. 
 - 💂 국군수송사령부 소속으로 지상작전사령부에서 통역병으로 군복무 중 군 해커톤에 참가하여 정보통신진흥원장상을 수상하였으며, 군복무를 완료하였습니다. (~2023.06.19)
 
 </div>
