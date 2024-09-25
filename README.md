@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Hi Welcome, I'm SEUNG HYO LEE! 👋 
+# Hi Welcome, I'm Ethan Lee! 👋 
  
 [![AstroHyo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AstroHyo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
