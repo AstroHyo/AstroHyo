@@ -38,6 +38,7 @@
 
 - I create value through continuous experimentation, always striving to make an impact. 
 - I'm currently a sophomore majoring in Computer Science at Johns Hopkins University.
+- As part of the JHU CCVL Research Group, I developed a medical image analysis web service for the BodyMaps Project, leveraging Next.js and Docker-based AI models hosted on Vercel and RunPod.
 - In March 2023, I founded [TutoReal](https://tutoreal.pages.dev/), a free AI-powered English tutoring service.
 -------
 - 🎓 현재 Johns Hopkins University Computer Science에 재학 중입니다. 
