@@ -4,11 +4,11 @@
  
 [![AstroHyo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AstroHyo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAstroHyo%2Fhit-counter&count_bg=%239EA09D&title_bg=%235094F0&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seung-hyo-lee-5440591ba/)](https://www.linkedin.com/in/ethanlee0000/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seunghyolee_/)](https://www.instagram.com/seunghyolee_/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagrama-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seunghyolee_/)](https://www.instagram.com/seunghyolee_/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spinelee2002@gmail.com)](mailto:spinelee2002@gmail.com)
 
  
@@ -49,3 +49,6 @@
 
  
 </div>
+
+*/
+-->
